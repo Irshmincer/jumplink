@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="61.108" height="59.411" viewBox="0 0 61.108 59.411">
+  <g id="Group_7090" data-name="Group 7090" transform="translate(-0.891 -2)">
+    <g id="Ellipse_243" data-name="Ellipse 243" transform="translate(0.891 2)" fill="none" stroke="#ef9e5e" stroke-width="2">
+      <ellipse cx="30.554" cy="29.705" rx="30.554" ry="29.705" stroke="none"/>
+      <ellipse cx="30.554" cy="29.705" rx="29.554" ry="28.705" fill="none"/>
+    </g>
+    <path id="Telegram" d="M31.8,66.833l-4.81,22.686c-.363,1.6-1.309,2-2.654,1.245l-7.33-5.4-3.537,3.4A1.841,1.841,0,0,1,12,89.484l.527-7.465L26.11,69.744c.591-.527-.128-.818-.918-.292L8.4,80.026l-7.23-2.263c-1.573-.491-1.6-1.573.327-2.327L29.775,64.542C31.084,64.051,32.23,64.834,31.8,66.833Z" transform="translate(15.875 -46.4)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="61.108" height="59.411" viewBox="0 0 61.108 59.411">
+  <g id="Group_7093" data-name="Group 7093" transform="translate(-1.564 -2)">
+    <g id="Ellipse_246" data-name="Ellipse 246" transform="translate(1.564 2)" fill="none" stroke="#ef9e5e" stroke-width="2">
+      <ellipse cx="30.554" cy="29.705" rx="30.554" ry="29.705" stroke="none"/>
+      <ellipse cx="30.554" cy="29.705" rx="29.554" ry="28.705" fill="none"/>
+    </g>
+    <path id="Youtube" d="M48.334,67.753a4.286,4.286,0,0,0-3.016-3.036C42.658,64,31.99,64,31.99,64s-10.668,0-13.328.717a4.287,4.287,0,0,0-3.016,3.036,48.263,48.263,0,0,0,0,16.529,4.223,4.223,0,0,0,3.016,2.987c2.66.717,13.328.717,13.328.717s10.668,0,13.328-.717a4.223,4.223,0,0,0,3.016-2.987,48.262,48.262,0,0,0,0-16.529ZM28.5,81.09V70.945l8.916,5.072Z" transform="translate(-0.369 -45)" fill="#fff"/>
+  </g>
+</svg>
